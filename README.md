@@ -10,5 +10,6 @@ Key Deliverables & Impact:
   * Computed core performance indicators (KPIs) and generated comprehensive testing reports.
   * Designed and deployed an interactive Power BI business intelligence dashboard translating raw medical data into actionable insights for stakeholders.
 Kindly find attached Links to my pojects
+ dataanalytics_internship_week1_assignment
 
 
