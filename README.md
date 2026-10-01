@@ -9,9 +9,9 @@ Key Deliverables & Impact:
   * Performed rigorous data quality assessments and handled missing values to ensure statistical reliability.
   * Computed core performance indicators (KPIs) and generated comprehensive testing reports.
   * Designed and deployed an interactive Power BI business intelligence dashboard translating raw medical data into actionable insights for stakeholders.
-Kindly find attached Links to my pojects
+Kindly find attached Links to my projects
  dataanalytics_internship_week1_assignment
-danielmoi820/datanaalytics_internship_week2_assignment
+ danielmoi820/datanaalytics_internship_week2_assignment
 
 
 
