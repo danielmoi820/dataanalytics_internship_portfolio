@@ -11,5 +11,7 @@ Key Deliverables & Impact:
   * Designed and deployed an interactive Power BI business intelligence dashboard translating raw medical data into actionable insights for stakeholders.
 Kindly find attached Links to my pojects
  dataanalytics_internship_week1_assignment
+danielmoi820/datanaalytics_internship_week2_assignment
+
 
 
