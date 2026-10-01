@@ -1,1 +1,14 @@
-# dataanalytics_internship
+# dataanalytics_internship_portfolio
+ Africa Analyst Lab Internship Projects
+
+HealthConnect Data Analytics Case Study 
+Role :Data Analyst Intern at Africa Analyst Lab
+Tech Stack:** Python, Pandas, SQL, Microsoft Power BI, Excel (DAX, Power Query)
+Project Overview:** Spearheaded data cleaning, auditing, and exploratory analysis on the HealthConnect dataset to evaluate operational efficiency and patient metric trends.
+Key Deliverables & Impact:
+  * Performed rigorous data quality assessments and handled missing values to ensure statistical reliability.
+  * Computed core performance indicators (KPIs) and generated comprehensive testing reports.
+  * Designed and deployed an interactive Power BI business intelligence dashboard translating raw medical data into actionable insights for stakeholders.
+Kindly find attached Links to my pojects
+
+
